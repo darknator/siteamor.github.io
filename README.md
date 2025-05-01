@@ -9,7 +9,7 @@
   <body>
     <div class="card" id="card">
       <div class="question" id="question">
-        <p>me perdoa?</p>
+        <p>vc me ama?</p>
         <div class="buttons">
           <button id="yes" class="btn-yes">Sim!</button>
           <button id="no" class="btn-no">Não</button>
